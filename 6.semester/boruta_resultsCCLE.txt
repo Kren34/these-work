@@ -1,0 +1,690 @@
+Cancer Type: central_nervous_system
+Drug: 17-AAG
+Selected Features: DNAJC17, MICAL3, MRGPRX1, MRPL40, SNAPC1, SNRNP40
+
+Drug: AZD-0530
+Selected Features: 
+
+Drug: AZD6244
+Selected Features: 
+
+Drug: Crizotinib
+Selected Features: 
+
+Drug: Erlotinib
+Selected Features: 
+
+Drug: Lapatinib
+Selected Features: 
+
+Drug: NVP-TAE684
+Selected Features: 
+
+Drug: Nilotinib
+Selected Features: 
+
+Drug: Nutlin-3a
+Selected Features: 
+
+Drug: PD-0325901
+Selected Features: 
+
+Drug: PD-0332991
+Selected Features: 
+
+Drug: PHA-665752
+Selected Features: 
+
+Drug: PLX4720
+Selected Features: 
+
+Drug: Paclitaxel
+Selected Features: ATP1A1, CNTN3, DDX20
+
+Drug: Sorafenib
+Selected Features: 
+
+Cancer Type: bone
+Drug: 17-AAG
+Selected Features: 
+
+Drug: AZD-0530
+Selected Features: 
+
+Drug: AZD6244
+Selected Features: 
+
+Drug: Crizotinib
+Selected Features: 
+
+Drug: Erlotinib
+Selected Features: 
+
+Drug: Lapatinib
+Selected Features: 
+
+Drug: NVP-TAE684
+Selected Features: 
+
+Drug: Nilotinib
+Selected Features: 
+
+Drug: Nutlin-3a
+Selected Features: 
+
+Drug: PD-0325901
+Selected Features: 
+
+Drug: PD-0332991
+Selected Features: 
+
+Drug: PHA-665752
+Selected Features: 
+
+Drug: PLX4720
+Selected Features: 
+
+Drug: Paclitaxel
+Selected Features: 
+
+Drug: Sorafenib
+Selected Features: 
+
+Cancer Type: stomach
+Drug: 17-AAG
+Selected Features: ABCA2, CPM, DBI, DNAAF9, FEZ2, KCNK10, LINC00922, NQO1, RBM18, RBP3, SIRT4, TFDP1
+
+Drug: AZD-0530
+Selected Features: CLPB, CPPED1, DMXL1, MBTD1, RPL23, SETD3
+
+Drug: AZD6244
+Selected Features: CCNG1, DDB2, MDM2, NPAS2, PDE12, RFESD, RPS27L, TOB1
+
+Drug: Crizotinib
+Selected Features: AGXT, CLASP2, CYTH1, HAAO, HMGA2, MSC, RGS8, SEBOX, SLC4A7, UBP1
+
+Drug: Erlotinib
+Selected Features: COMMD6, DPYS, GMFB, KMT2B, SMIM3, SSMEM1, TTL
+
+Drug: Lapatinib
+Selected Features: RSRC1
+
+Drug: NVP-TAE684
+Selected Features: 
+
+Drug: Nilotinib
+Selected Features: 
+
+Drug: Nutlin-3a
+Selected Features: FAM185A, FGF8, LIMA1, PCMTD1, RIC8B, SESN1, SLC25A21, ZNF239
+
+Drug: PD-0325901
+Selected Features: ANKRD24, C2CD6, DENND4C, EBLN2, INPP1, IRS4, KRT24, ZFP69B, ZNF577
+
+Drug: PD-0332991
+Selected Features: 
+
+Drug: PHA-665752
+Selected Features: BMP2K, CCDC191, CFAP276, MECOM, RANBP1, SHC1
+
+Drug: PLX4720
+Selected Features: 
+
+Drug: Paclitaxel
+Selected Features: ABCB8, ATP13A1, CBFB, CDV3, CLDN15, CRIM1, CRYL1, DUSP14, GABARAPL1, NBEAL2, OLR1, PAF1, PCGF3, RMI1, RPUSD4, STK38, TMEM52B, TPM4
+
+Drug: Sorafenib
+Selected Features: 
+
+Cancer Type: urinary_tract
+Drug: 17-AAG
+Selected Features: ATP7B, HMMR, INPP4B, PCMT1, SLITRK1, TRIM11, VDR
+
+Drug: AZD-0530
+Selected Features: 
+
+Drug: AZD6244
+Selected Features: 
+
+Drug: Crizotinib
+Selected Features: 
+
+Drug: Erlotinib
+Selected Features: BCAR3, BMAL1, KNOP1, NOD2, PCDH1, SLC35F3, SRMS, YWHAG
+
+Drug: Lapatinib
+Selected Features: 
+
+Drug: NVP-TAE684
+Selected Features: 
+
+Drug: Nilotinib
+Selected Features: 
+
+Drug: Nutlin-3a
+Selected Features: 
+
+Drug: PD-0325901
+Selected Features: 
+
+Drug: PD-0332991
+Selected Features: 
+
+Drug: PHA-665752
+Selected Features: 
+
+Drug: PLX4720
+Selected Features: 
+
+Drug: Paclitaxel
+Selected Features: ARHGAP28, ATF7IP, C16orf87, C18orf21, SPIN1
+
+Drug: Sorafenib
+Selected Features: 
+
+Cancer Type: ovary
+Drug: 17-AAG
+Selected Features: ADORA1, DMRT3, FAM174B, LGR6, LYG2, TUBGCP3, ZFP92
+
+Drug: AZD-0530
+Selected Features: CCNG2, CLTCL1, FAM162A, MID1IP1, MIF, PIGS
+
+Drug: AZD6244
+Selected Features: EBF2, LRATD2, PAX8, PDGFRA, RPS6KA5, SEC23IP, VAV1
+
+Drug: Crizotinib
+Selected Features: 
+
+Drug: Erlotinib
+Selected Features: 
+
+Drug: Lapatinib
+Selected Features: 
+
+Drug: NVP-TAE684
+Selected Features: 
+
+Drug: Nilotinib
+Selected Features: 
+
+Drug: Nutlin-3a
+Selected Features: 
+
+Drug: PD-0325901
+Selected Features: EBF2, LRATD2, PAX8, PDGFRA, RPS6KA5, SEC23IP, VAV1
+
+Drug: PD-0332991
+Selected Features: 
+
+Drug: PHA-665752
+Selected Features: 
+
+Drug: PLX4720
+Selected Features: 
+
+Drug: Paclitaxel
+Selected Features: KNG1, MYOD1, PDCD1, SPRR2G, TAS2R1, TMA16
+
+Drug: Sorafenib
+Selected Features: 
+
+Cancer Type: haematopoietic_and_lymphoid_tissue
+Drug: 17-AAG
+Selected Features: ARHGAP33, ASXL2, CDKN1A, EFEMP1, PHLDA3, WDR76
+
+Drug: AZD-0530
+Selected Features: AP2A1, CCDC106, ILRUN, NMRK1, PABPC3, RBPMS2, TCEA2
+
+Drug: AZD6244
+Selected Features: ADORA2B, APOBR, C12orf60, CAT, CNRIP1, CXCL2, CXCL8, CYBRD1, DNAAF9, DUSP23, E2F2, EML6, FHL3, FSCN1, GSN, HEY2, INPP4B, KCNN4, LAPTM4B, LCP2, MANSC1, MAPKAPK3, MATK, MGST2, MICB, MPZL1, MZB1, NIF3L1, PARD6A, PELI1, PHACTR2, PLAU, PLAUR, PLEKHA8, POU2AF1, PPM1K, PRRG1, PSTPIP2, PTGS2, RIMS3, RPL39L, RUFY3, SLC22A4, SMIM3, SNX3, SNX9, TCN1, TMEM144, TMEM17, TMEM243, TMEM45A, TYW1, VSIR, WT1, YAF2, ZBTB5, ZNF155, ZNF285
+
+Drug: Crizotinib
+Selected Features: ACOT13, C6orf89, JAKMIP2, PEX13, SH2D4B, SPHKAP, ST6GALNAC4
+
+Drug: Erlotinib
+Selected Features: AP3M1, MXRA8
+
+Drug: Lapatinib
+Selected Features: CD46, CP, DNAJC14, EDEM1, HEPACAM, PIK3CG, PSMB1, TPMT
+
+Drug: NVP-TAE684
+Selected Features: ABCD3, GUSB, MXD1, SCGN, SLC4A4, ZFP36, ZNF347
+
+Drug: Nilotinib
+Selected Features: ELOB, GSC2, SMIM20, SOHLH2
+
+Drug: Nutlin-3a
+Selected Features: ACYP1, AKT1S1, BANF1, C1orf122, CASKIN1, CHCHD1, CLINT1, CLPTM1, COA4, CPTP, FAM229B, FKBPL, GRK6, GTF2H4, HIKESHI, KREMEN1, MDM2, MEA1, MMP13, NCOR1, NELFE, OIP5, PAAF1, PCBP1, PPIL1, PRSS53, RBM42, RCE1, RPS27L, SLC25A3, SPAG7, SWI5, TMCC2
+
+Drug: PD-0325901
+Selected Features: ADORA2B, ANKRD37, CD27, CNRIP1, COPS8, CSF2RA, FBXO33, FHL3, KCNA2, KIF26B, MANSC1, MATK, MGST2, MIEN1, N4BP3, PLAU, PPIP5K2, PTGR1, PTGS2, ROGDI, SDK2, SIRPB1, SNX3, SNX9, STAR, TMEM17, TMEM243
+
+Drug: PD-0332991
+Selected Features: EEIG1, HCLS1, PSD4, PTK2B, RAB23, STK10, TRIM4
+
+Drug: PHA-665752
+Selected Features: 
+
+Drug: PLX4720
+Selected Features: DNAAF6, JAK1, KHDRBS2, PHETA2, SLC7A6OS, TRPM4
+
+Drug: Paclitaxel
+Selected Features: ABCB1, BRICD5, FEZF2, GPLD1, JADE2, JPH3, LPAR2, PSPN, RTN4RL2, TREM2, ZNF488
+
+Drug: Sorafenib
+Selected Features: ARHGAP9, DOCK8-AS1, ETNK1, FRY, GUK1, HAPLN4, PFDN5, SNAP47, SRSF6
+
+Cancer Type: kidney
+Drug: 17-AAG
+Selected Features: 
+
+Drug: AZD-0530
+Selected Features: 
+
+Drug: AZD6244
+Selected Features: 
+
+Drug: Crizotinib
+Selected Features: 
+
+Drug: Erlotinib
+Selected Features: 
+
+Drug: Lapatinib
+Selected Features: 
+
+Drug: NVP-TAE684
+Selected Features: 
+
+Drug: Nilotinib
+Selected Features: 
+
+Drug: Nutlin-3a
+Selected Features: 
+
+Drug: PD-0325901
+Selected Features: 
+
+Drug: PD-0332991
+Selected Features: 
+
+Drug: PHA-665752
+Selected Features: 
+
+Drug: PLX4720
+Selected Features: 
+
+Drug: Paclitaxel
+Selected Features: ANGPTL3, BRPF3, ETV4
+
+Drug: Sorafenib
+Selected Features: 
+
+Cancer Type: skin
+Drug: 17-AAG
+Selected Features: HECTD2, HTN3, KANSL1L, LSM10, PGAP1, TSR3, YIPF1
+
+Drug: AZD-0530
+Selected Features: 
+
+Drug: AZD6244
+Selected Features: ADAMTS15, AIG1, BCL2A1, CDK5R1, CYGB, DHX33, FAM210A, FAM78A, HEY1, HOXD13, MAN1A1, MIPEP, MREG, MRPS25, MRPS30, NDUFB9, NUP50, PCBP3, PECR, PI15, RGS7, STAC, TESK2, TMEM71, TSLP, UCHL5, ZNF629
+
+Drug: Crizotinib
+Selected Features: 
+
+Drug: Erlotinib
+Selected Features: 
+
+Drug: Lapatinib
+Selected Features: AGPAT2, ANO7, BCORL1, CABS1, DSG2, ISLR, KIFC3, ME2, PPP1R12C, PTRH1, ZNF575, ZNF830
+
+Drug: NVP-TAE684
+Selected Features: 
+
+Drug: Nilotinib
+Selected Features: 
+
+Drug: Nutlin-3a
+Selected Features: 
+
+Drug: PD-0325901
+Selected Features: AIG1, BAHCC1, BEX1, CDK5R1, CYGB, FAM210A, GHR, GPM6B, HEY1, HOXD13, HSPB3, MAN1A1, MEAK7, MREG, NPAS2, NUP50, OSBPL9, PBX1, PCBP3, PECR, PI15, PIGH, PLA1A, RAB38, RGS7, RUBCNL, RXRG, SMPDL3A, STXBP1, TESK2, TMEM71, UCHL5, ZNF75D
+
+Drug: PD-0332991
+Selected Features: ANKRD33, BHMT2, CHRM4, DAOA, GDF5, GTF2F1, HNF1B, KCNJ9, LINC02907, PODN, RDH10
+
+Drug: PHA-665752
+Selected Features: 
+
+Drug: PLX4720
+Selected Features: AAMDC, BBS5, CRISPLD2, CYP1B1, CYRIA, ELOVL2, HSPB3, IL18R1, JAM2, KIFBP, MAGI3, MAN1A1, OSBPL9, RSAD2, RUBCNL, STYK1, SYCP1, TMEM132D, TMEM44, TNFAIP2, TRHDE
+
+Drug: Paclitaxel
+Selected Features: ANKS6, EPS8, HSPG2, IDH3B, IGIP, IMMT, MAPK7, MRPS27, MRPS9, NCBP1, PRELP, RPL7L1, SLC4A11, ZNF114, ZNF599
+
+Drug: Sorafenib
+Selected Features: 
+
+Cancer Type: soft_tissue
+Drug: 17-AAG
+Selected Features: B3GNT5, C3AR1, CAB39, CAND2, CIITA, GSPT2, H2AJ, HSBP1L1, MATCAP2, NRP2, SALL4, SCG2, USP27X
+
+Drug: AZD-0530
+Selected Features: 
+
+Drug: AZD6244
+Selected Features: CHMP2B, MRPS15
+
+Drug: Crizotinib
+Selected Features: 
+
+Drug: Erlotinib
+Selected Features: 
+
+Drug: Lapatinib
+Selected Features: 
+
+Drug: NVP-TAE684
+Selected Features: 
+
+Drug: Nilotinib
+Selected Features: 
+
+Drug: Nutlin-3a
+Selected Features: CYP17A1, GPRIN1, MTG1, PLCL1
+
+Drug: PD-0325901
+Selected Features: 
+
+Drug: PD-0332991
+Selected Features: 
+
+Drug: PHA-665752
+Selected Features: 
+
+Drug: PLX4720
+Selected Features: 
+
+Drug: Paclitaxel
+Selected Features: 
+
+Drug: Sorafenib
+Selected Features: IL12RB1
+
+Cancer Type: lung
+Drug: 17-AAG
+Selected Features: F2, HS3ST5, NQO1, OGDHL
+
+Drug: AZD-0530
+Selected Features: AHI1, ALDH1A3, ALPK3, C1GALT1, CLMN, ERMP1, FLRT3, GALNT12, IRF9, JUP, KMO, LSR, MST1R, NIPAL1, PDGFB, PFKM, PLEKHO1, PMEPA1, PTK6, PYGB, RIGI, SRSF10, SVIL, TACSTD2, TSPAN14, TSPAN2, USP43, ZC3H10
+
+Drug: AZD6244
+Selected Features: H2AC8, H3C4, IDH3A, OCRL, USP3, WDR36
+
+Drug: Crizotinib
+Selected Features: PSTPIP2, SLAMF6
+
+Drug: Erlotinib
+Selected Features: ADGRA2, ADGRF4, ANO1, ANO9, ANXA2, CAPN1, CCR9, CEP164, COL25A1, CSRNP2, DIRAS1, ENPP5, ERMP1, FERMT1, FHOD1, HS3ST1, MACC1, MAD2L2, MAL2, PALM, PRKCH, RAB17, STX2, SYT11, TACSTD2, TBXA2R, TPM2, TSPAN1, ULK4, VAMP8
+
+Drug: Lapatinib
+Selected Features: ABCA12, AHI1, ANO9, B3GNT5, BRD8, C15orf39, CDS1, CEP164, CLDN4, COQ10A, DENND5B, ENPP5, ERMP1, ERP27, EVPL, GALNT12, GRHL2, HES1, HS3ST1, ITGB6, ITPKC, JUP, KIAA1522, KIAA1586, KLHL15, LAD1, LAMA5, MACC1, MAL2, MAP3K1, OR2F1, PTK6, SRPX2, ST14, ST6GALNAC1, TACSTD2, TSPAN1, ZEB1, ZNF630
+
+Drug: NVP-TAE684
+Selected Features: ADCY10, CNTNAP4, MEIKIN
+
+Drug: Nilotinib
+Selected Features: 
+
+Drug: Nutlin-3a
+Selected Features: CLDN7, FXYD4, MAPK8IP3, TNFRSF13C
+
+Drug: PD-0325901
+Selected Features: CHMP4C, DCLK2, ESRP1, ESRRA, F2, FERMT1, MAGEE1, MAPK13, MBLAC1, MST1R, NUMBL, OCRL, PALM, QKI, RAB6B, SIDT1, SLC22A13, TASP1, TCF7L1, TNFSF12, TTC7B, UBTF, USP3, VSIG1
+
+Drug: PD-0332991
+Selected Features: 
+
+Drug: PHA-665752
+Selected Features: CCL23, DYRK2, EEPD1, F8, GCFC2, LCA5L, NDP, RNF32, VPS39
+
+Drug: PLX4720
+Selected Features: CCDC12, CCDC51, DCLRE1C, SKA3
+
+Drug: Paclitaxel
+Selected Features: ADAT2, BCKDHA, DDX31, GTF3C2, NALF1, TMEM106A
+
+Drug: Sorafenib
+Selected Features: AMMECR1L, DYDC1, GARIN6, GNAL, TFAP2A
+
+Cancer Type: pancreas
+Drug: 17-AAG
+Selected Features: ERCC6, TRAF3IP2, ZNF830
+
+Drug: AZD-0530
+Selected Features: CALCA, USP22
+
+Drug: AZD6244
+Selected Features: CEP104, CXCL10, KRT81
+
+Drug: Crizotinib
+Selected Features: AKAP14
+
+Drug: Erlotinib
+Selected Features: 
+
+Drug: Lapatinib
+Selected Features: CFAP107, DHX29, NT5C, NXF5, PSMD6, RINT1, TFG
+
+Drug: NVP-TAE684
+Selected Features: 
+
+Drug: Nilotinib
+Selected Features: 
+
+Drug: Nutlin-3a
+Selected Features: 
+
+Drug: PD-0325901
+Selected Features: ADAMTS3, ATP6AP1, CALCA, CXCL10, FAM24A, GABRR2, SLC12A1, UPP2, VLDLR
+
+Drug: PD-0332991
+Selected Features: 
+
+Drug: PHA-665752
+Selected Features: ABRA, PCGF3
+
+Drug: PLX4720
+Selected Features: 
+
+Drug: Paclitaxel
+Selected Features: COA4, FAM216A, FIBP, TCL6, WNT16
+
+Drug: Sorafenib
+Selected Features: 
+
+Cancer Type: breast
+Drug: 17-AAG
+Selected Features: ARF6, BCAT2, GSDME, IDI2, SELP
+
+Drug: AZD-0530
+Selected Features: F3, ING5, KCNJ15, LAMP3, MET, NIBAN3, PROSER2
+
+Drug: AZD6244
+Selected Features: 
+
+Drug: Crizotinib
+Selected Features: 
+
+Drug: Erlotinib
+Selected Features: CACNG6, CLEC4E
+
+Drug: Lapatinib
+Selected Features: CAPN13, CNTNAP1, IL17F, MAP7, P2RY2, TBCD, TMEM30B, UBE2E2, UCP2, ZNF750, ZNRF3
+
+Drug: NVP-TAE684
+Selected Features: DDX42, H3C8, IL6ST, KLHL24, LEO1, RBM14
+
+Drug: Nilotinib
+Selected Features: 
+
+Drug: Nutlin-3a
+Selected Features: 
+
+Drug: PD-0325901
+Selected Features: 
+
+Drug: PD-0332991
+Selected Features: 
+
+Drug: PHA-665752
+Selected Features: ATP6V1A
+
+Drug: PLX4720
+Selected Features: 
+
+Drug: Paclitaxel
+Selected Features: ASAP2, CD36, MBD3, NUDT16, SLC7A1
+
+Drug: Sorafenib
+Selected Features: ATP6V1A
+
+Cancer Type: upper_aerodigestive_tract
+Drug: 17-AAG
+Selected Features: 
+
+Drug: AZD-0530
+Selected Features: 
+
+Drug: AZD6244
+Selected Features: 
+
+Drug: Crizotinib
+Selected Features: 
+
+Drug: Erlotinib
+Selected Features: 
+
+Drug: Lapatinib
+Selected Features: 
+
+Drug: NVP-TAE684
+Selected Features: 
+
+Drug: Nilotinib
+Selected Features: 
+
+Drug: Nutlin-3a
+Selected Features: 
+
+Drug: PD-0325901
+Selected Features: 
+
+Drug: PD-0332991
+Selected Features: 
+
+Drug: PHA-665752
+Selected Features: 
+
+Drug: PLX4720
+Selected Features: 
+
+Drug: Paclitaxel
+Selected Features: 
+
+Drug: Sorafenib
+Selected Features: 
+
+Cancer Type: large_intestine
+Drug: 17-AAG
+Selected Features: CD81, CYB561D1, GTSE1, HERC5, KCNJ2, PABPC1L, PSMB1, SIRT4, ZNF333
+
+Drug: AZD-0530
+Selected Features: CDKN2C, CSF2, HAAO, MCU, PIAS4, SERPINC1, SLC29A4, SULT2A1
+
+Drug: AZD6244
+Selected Features: B3GNTL1, CABYR, CDKL2, HERC5, PRSS50, RRN3
+
+Drug: Crizotinib
+Selected Features: 
+
+Drug: Erlotinib
+Selected Features: ADGRL1, AGO3, INTS15
+
+Drug: Lapatinib
+Selected Features: AP1M1, ASB6, ERLIN2, NECAP1, RAB11FIP1, RC3H2, TCP11L1, TRIM2, UBASH3B
+
+Drug: NVP-TAE684
+Selected Features: CD36
+
+Drug: Nilotinib
+Selected Features: 
+
+Drug: Nutlin-3a
+Selected Features: 
+
+Drug: PD-0325901
+Selected Features: CDKL2, ENOX1, HERC5, NR3C1, PRCC, SERPINA7
+
+Drug: PD-0332991
+Selected Features: 
+
+Drug: PHA-665752
+Selected Features: 
+
+Drug: PLX4720
+Selected Features: SIX6
+
+Drug: Paclitaxel
+Selected Features: B3GNTL1, MYCBPAP, RASA3, THG1L
+
+Drug: Sorafenib
+Selected Features: 
+
+Cancer Type: oesophagus
+Drug: 17-AAG
+Selected Features: DDX3Y, IPCEF1, YBX3
+
+Drug: AZD-0530
+Selected Features: CBX5, COX7A2L, CXCL1
+
+Drug: AZD6244
+Selected Features: ACTR3C, KLF4, MYL11, OLIG3, SCT
+
+Drug: Crizotinib
+Selected Features: 
+
+Drug: Erlotinib
+Selected Features: C9orf50, CRMP1, GATA3, GDE1, ITPRIPL2, MAP1B, RAB17, RIMBP2, TCF4
+
+Drug: Lapatinib
+Selected Features: CYB5R4, EXOSC3, GLRX5, HIBCH, LAMB1, NAPB, NKAIN3, PTHLH, RFT1, SDCBP, TARBP2
+
+Drug: NVP-TAE684
+Selected Features: 
+
+Drug: Nilotinib
+Selected Features: 
+
+Drug: Nutlin-3a
+Selected Features: 
+
+Drug: PD-0325901
+Selected Features: ACTR3C, KLF4, MYL11, OLIG3, SCT
+
+Drug: PD-0332991
+Selected Features: 
+
+Drug: PHA-665752
+Selected Features: 
+
+Drug: PLX4720
+Selected Features: 
+
+Drug: Paclitaxel
+Selected Features: 
+
+Drug: Sorafenib
+Selected Features: 
+

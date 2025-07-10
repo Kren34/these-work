@@ -1,0 +1,5 @@
+p-value	q-value	pathway	source	external_id	members_input_overlap	members_input_overlap_geneids	size	effective_size
+9.40834041348e-05	0.00301066893231	Calcitonin-like ligand receptors	Reactome	R-HSA-419812	CALCA; CALCB	796; 797	10	10
+0.000507432352916	0.00811891764666	Post-translational protein phosphorylation	Reactome	R-HSA-8957275	BPIFB2; CHGB; SCG2	80341; 7857; 1114	107	107
+0.000780149682859	0.00832159661716	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	Reactome	R-HSA-381426	BPIFB2; CHGB; SCG2	80341; 7857; 1114	124	124
+0.00796524736243	0.0637219788995	Class B/2 (Secretin family receptors)	Reactome	R-HSA-373080	CALCA; CALCB	796; 797	91	91

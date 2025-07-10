@@ -1,2 +1,7 @@
-In this repo, it functions as my personal archive. It envolves the projects 
-I have made during my University years.
+In this repo, it functions as my personal archive. It envolves the projects I have made during my University years.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Thesis
+
+This study focuses on ResNet models, which are among the deep learning architectures. To set up this framework, 9 diseased tomato leaf images and 1 healthy tomato leaf image from the PlantVillage dataset were used. While similar studies have been conducted in the past, this research aims to develop a successful, faster, and lighter model. Three different ResNet models—ResNet-18, ResNet-34, and ResNet-50—were trained using three different training strategies (10 epochs, 25 epochs, and early stopping), and the channel outputs from their last convolutional layers were then reapplied to the same models to create 36 models in total (9 from the initial training and 27 from the secondary training). Among these, the most successful models were: the ResNet-34 model retrained with channel outputs from ResNet-18 (trained for 10 and 25 epochs, with accuracy rates of 98.9% and 99.7% respectively), and the ResNet-50 model retrained with weights from ResNet-18 using the early stopping method (accuracy: 99.2%). Nevertheless, due to the possibility of overfitting, further research and optimization—especially for the ResNet-34 model trained for 25 epochs—are highly recommended.

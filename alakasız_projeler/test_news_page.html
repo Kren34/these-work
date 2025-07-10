@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Test Haber Sayfası (LocalStorage)</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+      background-color: #f9f9f9;
+    }
+    h1 {
+      font-size: 1.5rem;
+      margin-bottom: 10px;
+    }
+    #headlines {
+      margin-top: 20px;
+      padding: 10px;
+      background-color: #ffffff;
+      border: 1px solid #ccc;
+    }
+    h2 {
+      margin: 10px 0;
+      padding: 5px;
+      border-bottom: 1px dashed #aaa;
+    }
+    #newHeadlineInput {
+      padding: 6px;
+      width: 200px;
+    }
+    #addHeadlineBtn {
+      padding: 6px 12px;
+      border: none;
+      background-color: #4caf50;
+      color: white;
+      cursor: pointer;
+      margin-left: 5px;
+    }
+    #addHeadlineBtn:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+  <h1>Yerel Haber Test Sayfası (LocalStorage)</h1>
+  <p>Bu sayfa, <strong>test amaçlı</strong> bir haber kaynağı gibi davranır. Aşağıdaki "Başlık Ekle" butonunu kullanarak yeni bir haber başlığı ekleyebilirsiniz. Sayfa LocalStorage kullanarak başlıklarınızı saklar.</p>
+
+  <div>
+    <label for="newHeadlineInput">Haber Başlığı Gir:</label>
+    <input type="text" id="newHeadlineInput" placeholder="Örnek: Yeni Test Haberi" />
+    <button id="addHeadlineBtn">Başlık Ekle</button>
+  </div>
+
+  <div id="headlines">
+    <!-- Varsayılan haber başlıkları ekleyeceğiz, hem de localStorage'a kaydedeceğiz. -->
+  </div>
+
+  <script>
+    const addHeadlineBtn = document.getElementById('addHeadlineBtn');
+    const headlinesContainer = document.getElementById('headlines');
+    const newHeadlineInput = document.getElementById('newHeadlineInput');
+
+    // Sayfa açılınca localStorage'dan başlıkları yükle
+    let storedHeadlines = JSON.parse(localStorage.getItem('test_news_headlines')) || [];
+
+    // Varsayılan veriler yoksa, ekleyelim
+    if (storedHeadlines.length === 0) {
+      storedHeadlines = ["Test Haber 1", "Test Haber 2"];
+      localStorage.setItem('test_news_headlines', JSON.stringify(storedHeadlines));
+    }
+
+    // storedHeadlines içindeki her bir başlığı ekranda göster
+    function renderHeadlines() {
+      headlinesContainer.innerHTML = '';
+      storedHeadlines.forEach((headlineText) => {
+        const h2 = document.createElement('h2');
+        h2.textContent = headlineText;
+        headlinesContainer.appendChild(h2);
+      });
+    }
+
+    renderHeadlines();
+
+    addHeadlineBtn.addEventListener('click', () => {
+      const newHeadlineText = newHeadlineInput.value.trim();
+      if (newHeadlineText !== '') {
+        // Sona eklemek istiyorsan: storedHeadlines.push(newHeadlineText);
+        // Başa eklemek istiyorsan:
+        storedHeadlines.unshift(newHeadlineText);
+
+        // LocalStorage güncelle
+        localStorage.setItem('test_news_headlines', JSON.stringify(storedHeadlines));
+
+        // Ekrandaki listeyi güncelle
+        renderHeadlines();
+
+        // Input'u temizle
+        newHeadlineInput.value = '';
+      } else {
+        alert('Lütfen bir başlık girin.');
+      }
+    });
+  </script>
+</body>
+</html>
